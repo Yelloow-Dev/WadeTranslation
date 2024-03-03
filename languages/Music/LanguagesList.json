@@ -6,5 +6,6 @@
   "LanguagePath" : {
     "English" : "https://raw.githubusercontent.com/yello-w/WadeTranslation/main/languages/Music/english.json",
     "Arabic" : "https://raw.githubusercontent.com/yello-w/WadeTranslation/main/languages/Music/arabic.json"
-  }
+  },
+  "Type" : "MusicBotControllerType"
 }
