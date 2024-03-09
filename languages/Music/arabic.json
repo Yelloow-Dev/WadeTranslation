@@ -65,5 +65,11 @@
   "VolumeMustBeBetween0And150": "الصوت يجب أن يكون بين 0 و 150",
   "Duration": "المدة" ,
   "PlayTrack": "تشغيل الاغنيه",
-  "DeleteTrack": "حذف الاغنيه"
+  "DeleteTrack": "حذف الاغنيه",
+  "avatar_modified": "تم تعديل الصورة بنجاح",
+  "bot_not_found": "بوت غير موجود",
+  "avatar_modifying": "جاري تعديل الصور ...",
+  "all_avatars_modified": "تم تعديل جميع الصور بنجاح",
+  "name_modified": "تم تعديل الاسم بنجاح",
+  "status_modified": "تم تعديل الحالة بنجاح"
 }
