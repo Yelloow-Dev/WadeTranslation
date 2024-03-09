@@ -65,5 +65,11 @@
   "VolumeMustBeBetween0And150": "Volume must be between 0 and 150",
   "Duration": "Duration",
   "PlayTrack": "Play track",
-  "DeleteTrack": "Delete track"
+  "DeleteTrack": "Delete track",
+  "avatar_modified": "Avatar Changed successfully",
+  "bot_not_found": "Bot not found",
+  "avatar_modifying": "Changing avatars...",
+  "all_avatars_modified": "All avatars changed successfully",
+  "name_modified": "Name changed successfully",
+  "status_modified": "Status changed successfully"
 }
