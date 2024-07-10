@@ -55,7 +55,7 @@
   "SkippingTheTrack": "يتم تخطي الاغنيه",
   "StoppingThePlayer": "يتم ايقاف الاغنيه",
   "ThePlayerHasBeenPaused" : "تم ايقاف الاغنيه",
-  "ThePlayerHasBeenResumed" : "The player has been resumed",
+  "ThePlayerHasBeenResumed" : "> **تمت إعادة تشغيل الاغنيه**",
   "SettingVolumeTo:": "ضبط الصوت على: ",
   "ToPlay": "> **لتشغيل :**",
   "Please select a source": "يرجى تحديد منصة",
